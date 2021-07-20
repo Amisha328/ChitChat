@@ -1,2 +1,2 @@
-# ChitChat-
+# ChitChat
 Android Application
