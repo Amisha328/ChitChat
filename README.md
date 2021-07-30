@@ -40,3 +40,14 @@
         </tr>
 </table>
 
+## Technology
+
+- JAVA for back-end
+- XML for front-end
+- Firebase for database
+
+## Tools
+
+- Android Studio
+- Git
+- GitHub
