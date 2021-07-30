@@ -16,3 +16,12 @@
         <td><img src = "screenshots/login.jpeg" width="250"></td>
         </tr>
 </table>
+
+### 2. Chats Tab and Users Tab
+
+<table>
+        <tr> 
+        <td><img src = "screenshots/chat_section.jpeg"  width="250"></td>
+        <td><img src = "screenshots/users_section.jpeg" width="250"></td>
+        </tr>
+</table>
