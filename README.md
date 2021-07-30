@@ -4,7 +4,13 @@
 
 - A `distributed chatting application` that enables `private messaging` with end-to-end encryption.
 - Formulated `Firebase Realtime Database` to store chat history and user profile details that `reduced data access time to 1 sec`.
-- Programmed feature that allows users to edit their profile picture and username.
+- Programmed feature that allows users to edit their profile picture.
+
+## Features of the Project
+
+- The application uses `Firebase Phone Authentication` for registration and login.
+- The `Main Page` holds two sections namely, `Chats and Users`. `Chats` section presents the list of users you have conversed with, while the `Users` section presents the list of users using the application.
+- Single tap on any user profile direct you to the `chatting page` where the messages you send are displayed in black background with white text on the right and the received messages are displayed in white background with black text on the left.
 
 ## Screenshots of the application
 
