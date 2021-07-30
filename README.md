@@ -25,3 +25,12 @@
         <td><img src = "screenshots/users_section.jpeg" width="250"></td>
         </tr>
 </table>
+
+### 3. Chatting Page
+
+<table>
+        <tr> 
+                <td><img src = "screenshots/chat_page.jpeg"  width="250"></td>
+        </tr>
+</table>
+
