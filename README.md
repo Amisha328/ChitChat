@@ -42,12 +42,20 @@
 
 ## Technology
 
-- JAVA for back-end
-- XML for front-end
-- Firebase for database
+- `JAVA` for back-end
+- `XML` for front-end
+- `Firebase` for database
 
 ## Tools
 
-- Android Studio
-- Git
-- GitHub
+- `Android Studio`
+- `Git`
+- `GitHub`
+
+## Setting up project
+
+1. Fork this project by clicking the Fork button on top right corner of this page.
+
+2. Clone the repository by running following command in git:
+
+   `$ git clone https://github.com/[YOUR-USERNAME]/ChitChat.git`
